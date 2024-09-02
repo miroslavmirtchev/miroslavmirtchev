@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miroslav Mirtchev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming at Softuni Svetlina
+- 👀 I’m interested in Web development and I am currently studying Software Engineering
+- 🌱 I’m currently Studying ICT at Fontys, Eindhoven
 
 <!---
 miroslavmirtchev/miroslavmirtchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
